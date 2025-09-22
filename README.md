@@ -1,2 +1,2 @@
-# hola.com
+# index.com
 noloc
