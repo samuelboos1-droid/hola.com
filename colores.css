@@ -11,7 +11,7 @@
             height: 150px;   
             object-fit: cover; 
             object-position: 30% center; 
-            border: 2px solid black; 
+
         }
 
         .img-monster {
@@ -19,5 +19,8 @@
             height: 150px;   
             object-fit: cover; 
             object-position: center;
-            border: 2px solid black; 
+
+        }
+        h1{
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
