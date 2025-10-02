@@ -1,7 +1,23 @@
 .titulo-rojo {
-  color: red;       /* Primer H1 en rojo */
+  color: red;       
 }
 
 .titulo-azul {
-  color: blue;      /* Segundo H1 en azul */
+  color: blue;   
 }
+
+        .img-papa {
+            width: 80px;     
+            height: 150px;   
+            object-fit: cover; 
+            object-position: 30% center; 
+            border: 2px solid black; 
+        }
+
+        .img-monster {
+            width: 80px;     
+            height: 150px;   
+            object-fit: cover; 
+            object-position: center;
+            border: 2px solid black; 
+        }
